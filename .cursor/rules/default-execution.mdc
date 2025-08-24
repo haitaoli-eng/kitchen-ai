@@ -1,0 +1,11 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+Follow @.agents/instructions.md
+
+Always reference @.agents/PRD.md as the primary source of truth for project requirements, features, and objectives. This Product Requirements Document contains:
+- Complete feature specifications
+- User stories and requirements
+- Success metrics and goals
